@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(175, 175, 25);
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+h1{
+    color: rgb(12, 12, 129);
+    text-align: center;
+}
+
+a.one:link{
+    color:rgb(15, 214, 148);
+}
+
+a.one:hover{
+    color: yellow;
+}
+
+a.two:link{
+    color: blueviolet;
+}
+
+a.two:hover{
+    font-family: monospace;
+    color: aquamarine;
+}
+
+a.three:link{
+    color: orange;
+}
+
+a.three:hover{
+    color: red;
+}
